@@ -1,0 +1,6 @@
+export const LOGOUT = "LOGOUT";
+export const LOGGED = "LOGGED";
+export const VERIFY_LOGGED_IN = "VERIFY_LOGGED_IN";
+export const NAVIGATIONPROPS = "NAVIGATIONPROPS";
+export const SET_GENERAL_CONFIG = "SET_GENERAL_CONFIG";
+export const SET_GENERAL_MENU = "SET_GENERAL_MENU";
